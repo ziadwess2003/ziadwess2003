@@ -36,3 +36,15 @@ Collaborated with teammates to develop a Java game inspired by The Last of Us, s
 Compiler Design Assignments
 Individual coursework
 Completed three programming assignments as part of a compiler design course.
+
+
+## Project Links
+
+- [Freedance — Freelancing Platform](https://github.com/Freelance-acl/01-Freedance-Freelance)
+- [Cloud Lottery](https://github.com/sabaa-frh/cloud-lottery)
+- [Airline Data Assistant](https://github.com/AhmedWaleedElFar/acl_project_team21)
+- [Utopia — Donation Platform](https://github.com/salama-02/utopia)
+- [LastOfUs — Java Game](https://github.com/youssefsameh55/LastOfUs)
+
+
+
