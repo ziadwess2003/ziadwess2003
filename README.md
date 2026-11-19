@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi, I’m Ziad 👋
 
-<!--
-**ziadwess2003/ziadwess2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science and Engineering graduate from the German University in Cairo, interested in building software across backend systems, web applications, cloud services, and AI integrations.
 
-Here are some ideas to get you started:
+I enjoy solving problems and collaborating with teams to turn ideas into working applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies
+
+Languages: Java, JavaScript, HTML, CSS
+Backend & Data: Spring Boot, Node.js, PostgreSQL, MongoDB, Redis, Elasticsearch
+Cloud & AI: AWS DynamoDB, AWS SDK, LangChain, Hugging Face
+Tools: Git, GitHub, Prometheus
+
+Selected Projects
+
+Freedance — Freelancing Platform⁠￼
+Team project · Backend contributor
+Developed Job Service features including Redis caching, Elasticsearch indexing, JWT endpoint protection, job ratings, and market dashboard integrations. Added monitoring and tests for payment failure recovery.
+
+Cloud Lottery⁠￼
+Team project · Backend and cloud database contributor
+Created the DynamoDB table and integrated it with the Node.js backend using AWS SDK v3. Implemented operations to create, retrieve, update, and delete lottery entries.
+
+Airline Data Assistant⁠￼
+Team project · LLM integration contributor
+Integrated Hugging Face models with LangChain to answer questions using airline statistics and passenger reviews. Designed context-based prompts and compared Mistral, Zephyr, and Gemma models.
+
+Utopia — Donation Platform⁠￼
+Team project · Frontend contributor
+Contributed across most of the frontend using HTML, CSS, and JavaScript, including pages and interactions for donors, organizations, administrators, doctors, and teachers.
+
+LastOfUs — Java Game⁠￼
+Team project · Shared development
+Collaborated with teammates to develop a Java game inspired by The Last of Us, sharing implementation tasks across the project.
+
+Compiler Design Assignments
+Individual coursework
+Completed three programming assignments as part of a compiler design course.
